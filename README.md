@@ -22,7 +22,7 @@ The following contains various web links to different Tech websites and Tech Hac
 - [Quickref Cheat Sheet](https://quickref.me/index.html)
 
 ### SKILL PRACTISE WEBSITES + TOOLS
-- [Frontend Mentor](https://www.frontendmentor.io/)  Practice front-end technologies
+- [Frontend Mentor](https://www.frontendmentor.io/) Practice front-end technologies
 - [50 Projects 50 Days](https://github.com/bradtraversy/50projects50days)
 - [Python principles](http://pythonprinciples.com/challenges/)
 - [Hackerrank](https://www.hackerrank.com/)
