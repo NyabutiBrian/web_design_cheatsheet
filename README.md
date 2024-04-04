@@ -137,7 +137,8 @@ The following contains various web links to different Tech websites and Tech Hac
 32. [motion](https://motion.dev/) > animation library
 22. [designhacks](https://designhacks.online/) > animated popups
 23. [splidejs](https://splidejs.com/) > frontend library
-14. [packery.metafizzy](https://packery.metafizzy.co/) > draggable grid layout
+24. [packery.metafizzy](https://packery.metafizzy.co/) > draggable grid layout
+25. [BoxSlider](https://github.com/p-m-p/slider)
 
 > DESIGN INSPIRATION WEBSITES
 1. [awwwards](https://www.awwwards.com/)
