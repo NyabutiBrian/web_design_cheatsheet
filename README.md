@@ -2,11 +2,11 @@
 
 The following contains various web links to different Tech websites and Tech Hacks.
 
-### PRODUCTIVITY WEBSITES + TOOLS
+## PRODUCTIVITY WEBSITES + TOOLS
 - [Notion](https://www.notion.so/)
 - [xTiles](https://xtiles.app/en)
 
-### LEARNING PORTALS
+## LEARNING PORTALS
 - [ALX](https://www.alxafrica.com/)
 - [EDX](https://www.edx.org/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -21,7 +21,7 @@ The following contains various web links to different Tech websites and Tech Hac
 - [Overapi Cheat Sheet](https://overapi.com/)
 - [Quickref Cheat Sheet](https://quickref.me/index.html)
 
-### SKILL PRACTISE WEBSITES + TOOLS
+## SKILL PRACTISE WEBSITES + TOOLS
 - [Frontend Mentor](https://www.frontendmentor.io/) Practice front-end technologies
 - [50 Projects 50 Days](https://github.com/bradtraversy/50projects50days)
 - [Python principles](http://pythonprinciples.com/challenges/)
@@ -29,7 +29,7 @@ The following contains various web links to different Tech websites and Tech Hac
 - [Leetcode](https://leetcode.com/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
 
-### A.I
+## A.I
 > WRITING
 - [Jenni](https://jenni.ai/)
 
@@ -63,7 +63,7 @@ The following contains various web links to different Tech websites and Tech Hac
 6. [zmo](https://www.zmo.ai/)
 7. [imgcreator zmo](https://imgcreator.zmo.ai/) > potrait, editor, generator
 
-### TECH CONTENTS
+## TECH CONTENTS
 > IMAGES
 1. [squoosh](https://squoosh.app/) >  image Compressor
 2. [tinypng](https://tinypng.com/) > image Compressor
@@ -101,6 +101,7 @@ The following contains various web links to different Tech websites and Tech Hac
 8. [themeforest](https://themeforest.net/) > paid templates
 9. [uiverse](https://uiverse.io/) > html css components
 10. [elements](https://elements.envato.com/) > website templates
+11. [tailwindui](https://tailwindui.com/) > tailwind components
 
 > DESIGN
 1. [coolors](https://coolors.co/) > color pallets
@@ -135,10 +136,12 @@ The following contains various web links to different Tech websites and Tech Hac
 30. [brandfetch](https://brandfetch.com/) > brand logos
 31. [getwaves](https://getwaves.io/) > svg wave designs
 32. [motion](https://motion.dev/) > animation library
-22. [designhacks](https://designhacks.online/) > animated popups
-23. [splidejs](https://splidejs.com/) > frontend library
-24. [packery.metafizzy](https://packery.metafizzy.co/) > draggable grid layout
-25. [BoxSlider](https://github.com/p-m-p/slider)
+33. [designhacks](https://designhacks.online/) > animated popups
+34. [splidejs](https://splidejs.com/) > frontend library
+35. [packery.metafizzy](https://packery.metafizzy.co/) > draggable grid layout
+36. [BoxSlider](https://github.com/p-m-p/slider)
+37. [Bennettfeely](https://bennettfeely.com/)
+38. [Tailwind Fluid Type Scale Calculator](wtw.dev/tw-text)
 
 > DESIGN INSPIRATION WEBSITES
 1. [awwwards](https://www.awwwards.com/)
@@ -150,6 +153,21 @@ The following contains various web links to different Tech websites and Tech Hac
 7. [pagecollective](https://pagecollective.com/)
 8. [land-book](https://land-book.com/)
 9. [lapa](https://www.lapa.ninja/)
+
+## GRAPHICS DESIGN
+1. [@willpatersondesign Youtube](https://www.youtube.com/@willpatersondesign/featured)
+2. [@ArnauRos Youtube](https://www.youtube.com/@ArnauRos/featured)
+3. [@Photoshop Youtube](https://www.youtube.com/@Photoshop)
+4. [@SatoriGraphics Youtube](https://www.youtube.com/@SatoriGraphics/playlists)
+5. [@HelloImAlexa Youtube](https://www.youtube.com/@HelloImAlexa)
+6. [@mtmograph Youtube](https://www.youtube.com/@mtmograph)
+7. [@swervedesignsuk Youtube](https://www.youtube.com/@swervedesignsuk)
+
+## BROWSER EXTENSIONS
+1. [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+2. [React developer tools]()
+3. [Detailed SEO extension]()
+4. [Keyword Surfer]()
 
 ## TECH HACKS
 1. CMD
