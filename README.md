@@ -102,6 +102,7 @@ The following contains various web links to different Tech websites and Tech Hac
 9. [uiverse](https://uiverse.io/) > html css components
 10. [elements](https://elements.envato.com/) > website templates
 11. [tailwindui](https://tailwindui.com/) > tailwind components
+12. [Hyper Ui](https://www.hyperui.dev/)
 
 > DESIGN
 1. [coolors](https://coolors.co/) > color pallets
