@@ -20,6 +20,8 @@ The following contains various web links to different Tech websites and Tech Hac
 - [Best Websites a Progrmmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Overapi Cheat Sheet](https://overapi.com/)
 - [Quickref Cheat Sheet](https://quickref.me/index.html)
+- [fullstackopen react](https://fullstackopen.com/en/)
+- [System design](https://github.com/ecodelearn/ByteByteGoHq-system-design-101-deprecated)
 
 ## SKILL PRACTISE WEBSITES + TOOLS
 - [Frontend Mentor](https://www.frontendmentor.io/) Practice front-end technologies
@@ -28,6 +30,7 @@ The following contains various web links to different Tech websites and Tech Hac
 - [Hackerrank](https://www.hackerrank.com/)
 - [Leetcode](https://leetcode.com/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
+- [tech interview handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ## A.I
 > WRITING
@@ -53,6 +56,9 @@ The following contains various web links to different Tech websites and Tech Hac
 11 [gamma](https://gamma.app/) > presentation
 12. [10web](https://10web.io/) > website builder
 13. [builder](https://www.builder.io/m/pricing) > figma to code
+14. [microsoft designer](https://designer.microsoft.com/) > design inerface
+15. [usegalileo ai](https://www.usegalileo.ai/explore)
+16. [dora ai](https://www.dora.run/) > websites
 
 > IMAGES
 1. [huemint](https://huemint.com/) > Color pallet generator
@@ -62,6 +68,7 @@ The following contains various web links to different Tech websites and Tech Hac
 5. [upscale](https://www.upscale.media/) > upscale images
 6. [zmo](https://www.zmo.ai/)
 7. [imgcreator zmo](https://imgcreator.zmo.ai/) > potrait, editor, generator
+8. [lummi ai](https://www.lummi.ai/)
 
 ## TECH CONTENTS
 > IMAGES
@@ -89,6 +96,10 @@ The following contains various web links to different Tech websites and Tech Hac
 10. [thestocks](https://thestocks.im/) > design resources
 11. [free-for-dev](https://github.com/ripienaar/free-for-dev)
 12. [devdocs](https://devdocs.io/) > API Documentation
+13. [tailwind color generator](https://uicolors.app/create)
+14. [aceternity ui](https://ui.aceternity.com/)
+15. [Search Insights](https://answerthepublic.com/)
+16. [react three fibre](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) > components
 
 > HTML CSS JS BOOTSTRAP TAILWIND REACT
 1. [bootstrapmade](https://bootstrapmade.com/) > bootstrap templates
@@ -103,6 +114,8 @@ The following contains various web links to different Tech websites and Tech Hac
 10. [elements](https://elements.envato.com/) > website templates
 11. [tailwindui](https://tailwindui.com/) > tailwind components
 12. [Hyper Ui](https://www.hyperui.dev/)
+13. [ant design](https://ant.design/)
+14. [untitled ui](https://www.untitledui.com/)
 
 > DESIGN
 1. [coolors](https://coolors.co/) > color pallets
@@ -143,6 +156,13 @@ The following contains various web links to different Tech websites and Tech Hac
 36. [BoxSlider](https://github.com/p-m-p/slider)
 37. [Bennettfeely](https://bennettfeely.com/)
 38. [Tailwind Fluid Type Scale Calculator](wtw.dev/tw-text)
+39. [Storytale.io](https://storytale.io/) > illustrations, 3D, icons, mockups, graphics
+40. [creatoom](https://creatoom.com/)
+41. [endlesstools](https://endlesstools.io/) > 3D objects and shapes
+42. [pacdora](https://www.pacdora.com/) > mockups
+43. [geopattern](https://btmills.github.io/geopattern/)
+44. [font space](https://www.fontspace.com/)
+45. [svg backgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
 
 > DESIGN INSPIRATION WEBSITES
 1. [awwwards](https://www.awwwards.com/)
@@ -154,8 +174,13 @@ The following contains various web links to different Tech websites and Tech Hac
 7. [pagecollective](https://pagecollective.com/)
 8. [land-book](https://land-book.com/)
 9. [lapa](https://www.lapa.ninja/)
+10. [footer design](https://www.footer.design/)
+11. [navbar gallery](https://www.navbar.gallery/)
+12. [curated sites](https://www.curationofcurations.com/)
+13. [404s](https://www.404s.design/)
+14. [https://godly.website/](https://godly.website/)
 
-## GRAPHICS DESIGN
+## GRAPHICS DESIGN TIKTOK
 1. [@willpatersondesign Youtube](https://www.youtube.com/@willpatersondesign/featured)
 2. [@ArnauRos Youtube](https://www.youtube.com/@ArnauRos/featured)
 3. [@Photoshop Youtube](https://www.youtube.com/@Photoshop)
@@ -169,6 +194,8 @@ The following contains various web links to different Tech websites and Tech Hac
 2. [React developer tools]()
 3. [Detailed SEO extension]()
 4. [Keyword Surfer]()
+5. [Font Ninja]()
+6. [WordPress theme detector and plugin detector](https://chromewebstore.google.com/detail/wordpress-theme-detector/bjccepbfbikbpbgillfgicihhmpmjbjd)
 
 ## TECH HACKS
 1. CMD
@@ -245,6 +272,10 @@ mdsched.exe
 7. [mailtrack](https://mailtrack.io/en/) > mail tracking
 8. [smartserials](https://smartserials.com/) > serial keys
 9. [simplify](https://simplify.jobs)
+10. [totalsportek](https://www.totalsportek.to/)
+11. [freestreams live](https://freestreams-live.my/)
+12. [sportsurge](https://home.sportsurge.club/)
+13. [streameast](https://v3.streameast.to/)
 
 **More engaging content to be added**
 
