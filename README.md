@@ -100,6 +100,8 @@ The following contains various web links to different Tech websites and Tech Hac
 14. [aceternity ui](https://ui.aceternity.com/)
 15. [Search Insights](https://answerthepublic.com/)
 16. [react three fibre](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) > components
+17. [cypress](https://www.cypress.io/) > test ,automate applications
+18. [3D icons](https://3dicons.co/)
 
 > HTML CSS JS BOOTSTRAP TAILWIND REACT
 1. [bootstrapmade](https://bootstrapmade.com/) > bootstrap templates
